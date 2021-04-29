@@ -19,7 +19,7 @@ const input = {
 
     ],
   };
-
+/*
 const editSpec= {
     // width: 2166, height: 1650, fps: 30,
     width: 1000, height: 668, fps: 30,
@@ -41,7 +41,7 @@ const editSpec= {
     ],
   }
   
-
+*/
 // See editSpec documentation
 const func= async() => {
     await editly(input)
