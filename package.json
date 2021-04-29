@@ -1,0 +1,15 @@
+{
+  "name": "editlyusecase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "editly": "^0.11.1",
+    "ffprobe": "^1.1.2"
+  }
+}
