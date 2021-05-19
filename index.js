@@ -3,7 +3,7 @@ const editly = require('editly');
 const input = {
     // width: 2166, height: 1650, fps: 30,
     width: 1000, height: 668, fps: 30,
-    outPath: './finalVideo.m3u8',
+    outPath: './finalVideo.mp4',
     defaults: {
       transition: { name: 'random' },
       layer: { fontPath: './assets/Patua_One/PatuaOne-Regular.ttf' },
